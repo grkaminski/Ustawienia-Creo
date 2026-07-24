@@ -1,3 +1,0 @@
-Należy w pliku config.pro dodać nastepującą linię:
-
-use_inverted_mousewheel_zoom yes
